@@ -1,0 +1,11 @@
+# XcodeGen で生成されるファイル
+*.xcodeproj
+Altitude/Info.plist
+AltitudeWidget/Info.plist
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+build/
